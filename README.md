@@ -34,6 +34,8 @@ This approach guarantees an exact result for small values of $n$.
 - Performance scales exponentially with the number of dice.
 - Exact results depend on the chosen scoring rules (house rules may vary).
 
+## Usage
+Run: ```python count_farkles.py```
 
 ## Example Results
 ```
